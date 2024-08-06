@@ -1,4 +1,4 @@
-23650680832872870
+23664458354058288
 5 switch
 SW_DS04-254-2-05BK-SMT-TR
 
@@ -223,6 +223,62 @@ audio belton reverb
 0
 7
 7
+BFH stuff
+ADS1018IRUGT
+RUG (R-PQFP-N10)-FFW
+Integrated Circuit
+0
+10
+10
+BFH stuff
+ADS7142IRUGT
+RUG (R-PQFP-N10)
+Integrated Circuit
+0
+10
+10
+BFH stuff
+QFN50P500X500X60-33N-D
+STM32L432KCU3
+Integrated Circuit
+0
+33
+33
+BFH stuff
+SAMTEC_TSM-102-01-L-SH
+
+
+0
+2
+2
+BFH stuff
+SAMTEC_TSM-104-01-L-SH
+
+
+0
+4
+4
+BFH stuff
+SOIC127P600X175-8N
+8 SO-3
+Undefined or Miscellaneous
+0
+8
+8
+BFH stuff
+SOP65P640X110-24N
+LPC804M101JDH24J-TSSOP-24
+Integrated Circuit
+0
+24
+24
+BFH stuff
+through hole
+
+
+0
+1
+1
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
